@@ -1,2 +1,9 @@
-com\webcaisse\mvc\controller\HomePageController.class
+com\webcaisse\ws\client\GetFamillesActivees.class
+com\webcaisse\ws\client\CaisseManagerService.class
+com\webcaisse\ws\client\CaisseManagerServiceImplService.class
+com\webcaisse\ws\client\ObjectFactory.class
+com\webcaisse\ws\client\Famille.class
 com\webcaisse\mvc\controller\LoginPageController.class
+com\webcaisse\ws\client\package-info.class
+com\webcaisse\ws\client\GetFamillesActiveesResponse.class
+com\webcaisse\mvc\controller\HomePageController.class
